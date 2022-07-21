@@ -32,5 +32,61 @@
       "email": "lisa@gmail.com",
       "password": "11111"
     }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "General Management"
+    },
+    {
+      "id": 2,
+      "name": "Leadership & Strategy"
+    },
+    {
+      "id": 3,
+      "name": "Operations & Supply Chain"
+    },
+    {
+      "id": 4,
+      "name": "Human Resources"
+    },
+    {
+      "id": 5,
+      "name": "Technology & Analytics"
+    },
+    {
+      "id": 6,
+      "name": "Finance & Banking"
+    },
+    {
+      "id": 7,
+      "name": "Business Law"
+    },
+    {
+      "id": 8,
+      "name": "Marketing & Sales"
+    },
+    {
+      "id": 9,
+      "name": "Product Management"
+    },
+    {
+      "id": 10,
+      "name": "Short Duration Program"
+    }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "courses": [
+        "IIM KashipurExecutive Master of Business Administration (Analytics)",
+        "IIM Kashipur Post Graduate Certificate Programme in General Management",
+        "IIM Indore Executive Programme in Global Business Management",
+        "IIM Kozhikode Professional Certificate Programme in Business Management",
+        "IIM Lucknow Accelerated Management Programme for Executives",
+        "IIM Indore Executive Post Graduate Certificate Programme in Management",
+        "IIM Kozhikode Professional Certificate Programme in Entrepreneurship and New Venture Creation"
+      ]
+    }
   ]
 }
